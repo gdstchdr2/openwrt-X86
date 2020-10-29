@@ -4,7 +4,11 @@
 
 P3TERX云编译脚本地址：[https://github.com/P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
 
+中文教程地址：[https://p3terx.com/archives/build-openwrt-with-github-actions.html](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+
 lean固件源码地址：[https://github.com/coolsnowwolf/openwrt](https://github.com/coolsnowwolf/openwrt)
+
+插件应用说明地址：[https://www.right.com.cn/forum/thread-3682029-1-1.html](https://www.right.com.cn/forum/thread-3682029-1-1.html)
 
 由衷感谢所有为openwrt无私奉献的大佬们。
 
@@ -29,9 +33,8 @@ lean稳定源码版本，内核为**4.19**版，分为***自用版（openwrt-ZY�
 
 ### 其他
 
-联系：[Tg频道订阅](https://t.me/zhinengchaoshenzhe)
-
-追新版云编译地址：[https://github.com/firker/openwrt-Exclusive](https://github.com/firker/openwrt-Exclusive)
+联系：
+追新版云编译地址：
 
 
 
