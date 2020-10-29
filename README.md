@@ -14,11 +14,11 @@ lean稳定源码版本，内核为**4.19**版，分为***自用版（openwrt-ZY�
 
 不定时更新
 
-> `ip：192.168.1.1 密码：password`
+> `ip：192.168.10.1 密码：password`
 
 ## 固件下载
 
-### 点击[Actions](https://github.com/firkerword/openwrt-stable-version/actions) 或者[Releases](https://github.com/firkerword/openwrt-stable-version/releases) 选择需要的版本
+### 点击[Actions](https://github.com/gdstchdr2/openwrt-stable-version/actions) 或者[Releases](https://github.com/gdstchdr2/openwrt-stable-version/releases) 选择需要的版本
 ![avatar](https://raw.githubusercontent.com/firkerword/openwrt-stable-version/main/boc/c.png)
 
 ## 固件截图：
