@@ -35,4 +35,4 @@ svn co https://github.com/xiaorouji/openwrt-package/trunk/package package/lienol
 # svn co https://github.com/xiaorouji/openwrt-package/trunk/package/naiveproxy package/naiveproxy
 # svn co https://github.com/xiaorouji/openwrt-package/trunk/package/v2ray package/v2ray
 # svn co https://github.com/xiaorouji/openwrt-package/trunk/package/v2ray-plugin package/v2ray-plugin
-git clone https://github.com/siropboy/mypackages/tree/main/luci-app-control-weburl.git package/luci-app-control-weburl
+git clone https://github.com/gdck/luci-app-control-weburl.git package/luci-app-control-weburl
